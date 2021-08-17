@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SimpleWeatherApp</string>
+    <string name="min">min</string>
+    <string name="max">max</string>
+    <string name="location">Location</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed_mu_ms">%1$s m/s</string>
+    <string name="wind_speed_mu_kmh">%1$s km/h</string>
+    <string name="pressure_mu_hpa">%1$s hPa</string>
+    <string name="pressure_mu_mmHg">%1$s mmHg</string>
+    <string name="m_s">m/s</string>
+    <string name="km_h">km/h</string>
+    <string name="mmhg">mmHg</string>
+    <string name="hpa">hPa</string>
+    <string name="feels_like">Feels like</string>
+    <string name="morn">morn</string>
+    <string name="day">day</string>
+    <string name="eve">eve</string>
+    <string name="night">night</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_dir">Wind diraction</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+
+    <string name="degree_symbol" translatable="false">%1$s\u00B0</string>
+    <string name="comma" translatable="false">, %1$s</string>
+    <string name="provided_by" translatable="false">Provided by</string>
+    <string name="provider_description" translatable="false">All data provided by Open Weather \nMap using One Call API</string>
+    <string name="source_provider" translatable="false">Source provider</string>
+    <string name="c" translatable="false">\u00B0C</string>
+    <string name="f" translatable="false">\u00B0F</string>
+</resources>
